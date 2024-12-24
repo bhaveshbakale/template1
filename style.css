@@ -1,0 +1,365 @@
+*{  border: 0px;
+    margin: 0px;
+    padding: 0px;
+    text-align: justify;
+}
+.freepik{
+    font-family: Roboto;
+}
+h1{
+    color:rgb(117, 255, 230);
+    font-family: Ubuntu;
+}
+h3{
+    color: rgb(117, 255, 230);
+    font-family: Ubuntu;
+    letter-spacing: 3px;
+}
+h2{
+    color: rgb(83, 22, 174);
+    font-family: Ubuntu;
+}
+
+
+p{
+    font-family: Roboto;
+}
+.navbar{
+    padding: 5px;
+ display: flex;
+ flex-direction: row;
+ align-items: flex-start;
+ justify-content: space-between;
+ gap: 10px;
+ background-color: rgb(83, 22, 174);
+}
+.data1{
+    width: 600px;
+}
+.f2{
+    width: 20%;
+}
+.nav1{ 
+
+
+    
+} nav{
+    align-self: flex-end;
+    display: flex;
+    position: relative;
+    flex-direction: row;
+    justify-content: space-evenly;
+    gap: 10px;
+    
+}
+a{
+    color: rgb(255, 255, 255);
+}
+.hero{
+    background-color: rgb(83, 22, 174);
+    padding-top: 100px;
+    height:auto;
+    display: flex;
+    flex-direction: column;
+   
+   
+}
+
+.img1{
+    width: 60%;
+    position: relative;
+    left: 200px;
+    
+}
+.title{
+    width: 40%;
+    h1{
+        color:  rgb(83, 22, 174);
+    }
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    height: 270px;
+    padding: 30px;
+    gap: 30px;
+    position: relative;
+    bottom: 120px;
+    left: 600px;
+}
+form{
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    
+}
+.form1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.learn{
+    width: 140px;
+    height:40px;
+    padding: 5px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+    background-color:  rgb(83, 22, 174);
+    border: 5px;
+   border-radius: 30%;
+    letter-spacing: 3px;
+    font-family: Roboto;
+    font-weight: 500;
+   
+}
+
+
+.features{
+  background-color: rgb(83, 22, 174);
+  display: flex;
+  flex-direction: column;
+ align-items: center;
+ gap: 50px;
+ .learn{
+    color: rgb(83, 22, 174);
+    background-color: rgb(117, 255, 230);
+}
+}
+
+.d1{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+   
+}
+.data{
+    font-size: 60px;
+    position: relative;
+    left: 10px;
+  }
+.d{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+.f1{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    margin: 50px;
+    position: relative;
+   gap: 50px;
+    
+}
+.feat{
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    gap: 20px;
+    
+    
+}
+.f{
+    width: 15%;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    p{
+        color:  rgb(83, 22, 174);
+    }
+    gap:20px;
+    background-color: rgb(255, 255, 255);
+   
+}
+.f2{
+    width: 230px;
+}
+button{
+   
+    width: 140px;
+    height:40px;
+    padding: 5px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+    background-color:  rgb(75, 23, 154);
+    border: 5px;
+   border-radius: 30%;
+    letter-spacing: 3px;
+    font-family: Roboto;
+    font-weight: 500;
+}
+.read{
+    h1{
+        color: rgb(83, 22, 174);
+    }
+   
+    background-color: rgb(119, 239, 255);
+    
+        
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   gap:200px;
+   height:200px;
+}
+.w2{
+
+    width: 600px;
+    height: 600px;
+}
+.w1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 150px;
+}
+.colocation{
+    display: flex;
+    flex-direction:row-reverse;
+    align-content: flex-end;
+    
+   
+}
+.c{
+    width: 400px;
+    height: 250px;
+    padding: 20px;
+    color: rgb(83, 22, 174);
+    background-color: rgb(117, 255, 230);
+    align-self: flex-end;
+    font-weight: 600;
+    position: relative;
+    right: 50px;
+    bottom: 250px;
+
+    p{
+        font-size: 40px;
+        text-align: left;
+
+    }
+}
+.white{
+    background-color: rgb(255, 255, 255);
+    padding: 30px;
+    height: 540px;
+    width: 600px;
+    align-content: center;
+    
+    font-weight: 300;
+   line-height: 30px;
+        font-size: large;
+        p{
+            text-align: left;
+        }
+        
+    
+}
+.p1{
+    width: 600px;
+    text-align: left;
+    font-size: 55px;
+    font-family: Ubuntu;
+    font-weight: 600;
+    color: rgb(255, 255, 255);
+}
+.h{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 0px 100px;
+    gap: 40px;
+    position: relative;
+    bottom: 50px;
+}
+.s{
+    background-color: rgb(119, 239, 255);
+    color: white;
+    border-radius: 0;
+    width: 200px;
+    .freepik{
+        color: white;
+    }
+}
+.p2{
+    width: 600px;
+    font-weight: 300;
+    line-height: 40px;
+    text-align: left;
+    font-size: large;
+    color: white;
+}
+.read1{
+background-color:  rgb(83, 22, 174);
+}
+.read2{
+background-color:  rgb(83, 22, 174);
+}
+.contact1{
+    color: rgb(83, 22, 174);
+    background-color: rgb(117, 255, 230);
+    transform: translateX(600px);
+}
+.phone{
+    justify-content: space-evenly;
+    width:800px;
+}
+.footer{
+    color: aliceblue;
+background-color: rgb(45, 45, 45);
+height:300px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+input{
+    height:40px;
+    background-color: rgb(83, 22, 174);
+}
+textarea{
+    height:100px;
+    background-color: rgb(83, 22, 174);
+}
+.host{
+    display: flex;
+    width: 600px;
+    color: white;
+    gap: 20px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    align-self: center;
+    
+    h1{
+        color: white;
+    }
+    .p2{
+        text-align: center;
+    }
+}
+.hosting{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.robot{
+    width: 600px;
+}
+.con{
+    display: flex;
+    padding: 100px;
+    background-color: rgb(83, 22, 174);
+    gap:20px
+}
